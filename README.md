@@ -24,8 +24,6 @@ Welcome to my C++ projects repository showcasing hands-on programs built during 
   - **Student Management System** (`Student-Management.cpp`) – Enrollment, record updates, grade calculation, and database viewing.
   - **Library Management System** (`Library-Management.cpp`) – Book issuance, returns, inventory tracking, and member records.
 
----
-
 ## 🔗 Practice Questions
 
 Repository for practice exercises:  
