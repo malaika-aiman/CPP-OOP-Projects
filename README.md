@@ -1,34 +1,88 @@
+
+<div align="center">
+
 # C++ Projects Progress
 
-Welcome to my C++ projects repository showcasing hands-on programs built during my learning journey.
+**Learning C++ through lecture-wise practice, programming exercises and console-based projects.**
+
+</div>
 
 ---
 
-## 📚 Lecture-wise & Practical Projects
+## Projects by Learning Stage
 
 ### Lectures 1–11
-- Applied foundational C++ concepts and basic logic building.
-- **Projects:**
-  - **Smart Student Calculator** (`PROJECT-1.cpp`) – Academic calculation tool.
-  - **Smart Login System** (`PROJECT-2.cpp`) – Basic authentication system.
+
+Practice with foundational C++ concepts and basic problem-solving logic.
+
+- **Smart Student Calculator** — `PROJECT-1.cpp`
+- **Smart Login System** — `PROJECT-2.cpp`
 
 ### Lectures 12–26
-- Applied conditional logic, loops, and modular programming.
-- **Projects:**
-  - **Mini ATM Machine** (`PROJECT-3.cpp`) – Console ATM simulation for deposits, withdrawals, and balance checks.
 
-### Core C++ Projects (Ongoing)
-- Practical implementations of functions, modular design, and real-world logic.
-- **Projects:**
-  - **Bank Management System** (`Bank-Management.cpp`) – Account creation, deposits, withdrawals, and balance tracking.
-  - **Student Management System** (`Student-Management.cpp`) – Enrollment, record updates, grade calculation, and database viewing.
-  - **Library Management System** (`Library-Management.cpp`) – Book issuance, returns, inventory tracking, and member records.
+Practice with conditional statements, loops and modular programming.
 
-## 🔗 Practice Questions
+- **Mini ATM Machine** — `PROJECT-3.cpp`
 
-Repository for practice exercises:  
-[Practice Questions Repository](https://github.com/malaika-aiman/cpp-programming)
+### Core C++ Projects
+
+Additional projects for practicing program structure and real-world logic.
+
+- **Bank Management System** — `Bank-Management.cpp`
+- **Student Management System** — `Student-Management.cpp`
+- **Library Management System** — `Library-Management.cpp`
+
+*Project status may vary. Check each source file for its current implementation.*
 
 ---
 
-**Author:** MALAIKA!
+## Concepts Practiced
+
+- Variables and data types
+- Conditional statements
+- Loops
+- Functions
+- Modular programming
+- Basic problem-solving techniques
+
+## Practice Questions
+
+Explore my C++ practice exercises:
+
+[Open C++ Programming Repository ↗](https://github.com/malaika-aiman/cpp-programming)
+
+## Running a C++ Program
+
+You need a C++ compiler, such as g++, to compile and run a source file.
+
+Example using the Smart Student Calculator filename:
+
+```bash
+g++ PROJECT-1.cpp -o calculator
+```
+
+Run on Windows:
+
+```bash
+calculator.exe
+```
+
+Run on Linux or macOS:
+
+```bash
+./calculator
+```
+
+*Replace the filename with the source file you want to run.*
+
+---
+
+## About This Repository
+
+This repository tracks my progress in C++ through practice programs and independent project work.
+
+My goal is to strengthen programming fundamentals and develop better problem-solving skills.
+
+---
+
+**Author:** Malaika Aiman
