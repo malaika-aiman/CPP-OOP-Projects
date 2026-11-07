@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # C++ & OOP Projects
@@ -11,15 +10,21 @@ A collection of C++ programming and Object-Oriented Programming projects develop
 
 ## C++ Projects
 
-- **Smart Student Calculator**
-- **Smart Login System**
+- **Access Manager**
+- **Cloth Stack**
 - **Mini ATM Machine**
+- **Parking System**
+- **Smart Login System**
+- **Smart Student Calculator**
 
 ## OOP Projects
 
-- **Student Management System**
-- **Library Management System**
 - **Bank Management System**
+- **File Management System**
+- **Finance Analyzer**
+- **Library Management System**
+- **Prime Binary Stack**
+- **Student Management System**
 
 ---
 
